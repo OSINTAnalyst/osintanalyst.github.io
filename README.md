@@ -1,6 +1,6 @@
-## OSINT Services &#9000;
+## OSINT Services &#9000; 
 
-## USB Tools &#9881;
+## USB Tools &#9881; 
 
 ## Contact &#x2709; 
 
