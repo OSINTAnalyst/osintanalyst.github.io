@@ -2,7 +2,7 @@
 
 ## USB Tools &#9881;
 
-## Contact &#128264; 
+## Contact &#128275; 
 
 <!--
 **OSINTAnalyst/OSINTAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
