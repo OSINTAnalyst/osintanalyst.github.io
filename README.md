@@ -1,16 +1,16 @@
-## OSINT Services &#9000;
+## OSINT Services &#9000; 
 <ul>
   <li>Point one</li>
   <li>Point two</li>
 </ul>
 
-## USB Tools &#9881;
+## USB Tools &#9881; 
 <ul>
   <li>Point one</li>
   <li>Point two</li>
 </ul>
 
-## Contact &#x2709;
+## Contact &#x2709; 
 <ul>
   <li>[Email Address Loading]...</li>
 </ul>
