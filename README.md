@@ -1,6 +1,14 @@
 ## OSINT Services &#9000; 
+<ul>
+  <li>Point one</li>
+  <li>Point two</li>
+</ul>
 
 ## USB Tools &#9881; 
+<ul>
+  <li>Point one</li>
+  <li>Point two</li>
+</ul>
 
 ## Contact &#x2709;
 
