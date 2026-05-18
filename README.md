@@ -12,7 +12,7 @@
 
 ## Contact &#x2709;
 <ul>
-  <li>[Email Address Loading...]</li>
+  <li>[Email Address Loading]...</li>
 </ul>
 
 <!--
