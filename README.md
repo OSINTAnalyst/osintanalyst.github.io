@@ -11,6 +11,9 @@
 </ul>
 
 ## Contact &#x2709;
+<ul>
+  <li>[Email Address Loading...]</li>
+</ul>
 
 <!--
 **OSINTAnalyst/OSINTAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
