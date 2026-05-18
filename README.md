@@ -1,8 +1,8 @@
-## OSINT Services &#9000; &#128187;
+## OSINT Services &#9000;
 
-## USB Tools &#9881; &#128128;
+## USB Tools &#9881;
 
-## Contact &#128273; &#9889;
+## Contact &#128264;
 
 <!--
 **OSINTAnalyst/OSINTAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
