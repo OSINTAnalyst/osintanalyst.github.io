@@ -1,10 +1,10 @@
-## OSINT Services &#9000; 
+## OSINT Services &#9000;
 <ul>
   <li>Point one</li>
   <li>Point two</li>
 </ul>
 
-## USB Tools &#9881; 
+## USB Tools &#9881;
 <ul>
   <li>./Linux Distros - Live Bootable Security Distributions or Live OS Environments - Description: Portable operating systems (e.g., Kali Linux for penetration testing, CAINE for forensics) run directly from the USB drive's memory without altering the host computer's native hard drive.</li>
   <li>./Automated Trojan Horse / Yellowkey / Unauthorized Access - HID Emulation / Keystroke Injection Attack - Description: Devices like the "USB Rubber Ducky" bypass security by masquerading as a Human Interface Device (HID), such as a standard keyboard. Because operating systems inherently trust keyboards, the device automatically types pre-programmed malicious commands to install backdoors, create admin accounts, or alter system settings in seconds.</li>
