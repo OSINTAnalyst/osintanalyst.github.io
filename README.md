@@ -11,7 +11,7 @@
       <li>Pricing Model and Monthly Subscription Tiers:</li>
         <ul>
       <li>Tier 1 | Monitoring Only Service | $2,500 - $5,000/Month: Automated alerting on compromised credentials, dark-web mentions, and brand impersonation.</li>
-      <li>Tier 2 | Threat Hunting Service | $7,500 - $12,500/Month: Baseline monitoring + a set number of reserved investigative analyst hours per month (e.g., 5-10 hours).</li>
+      <li>Tier 2 | Threat Hunting Service | $7,500 - $12,500/Month: Baseline monitoring + 10 hours of reserved investigative analyst hours per month.</li>
       <li>Tier 3 | Active Incident/Advanced OSINT Service | $15,000 - $25,000+/Month: Dedicated, priority-routing SLAs for real-time investigation or deep-dive threat intelligence.</li>
     </ul>
     </ul>
