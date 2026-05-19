@@ -27,7 +27,7 @@
   <li>Power Surge Tool: A USB drive designed to physically destroy computer hardware. It rapidly charges internal capacitors from the USB power lines and forcefully discharges the electrical load back into the data pins, frying the motherboard, and destroying the hardware.</li>
 </ul>
 
-## Terms and Conditions &#9000; 
+## Terms and Conditions &#9878; &#65039; 
 <ul>
   <li>Terms for All Clients:</li>
   <ul>
