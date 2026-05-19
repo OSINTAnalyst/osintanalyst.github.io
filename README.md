@@ -1,18 +1,18 @@
 ## OSINT Services &#9000; 
 <ul>
-  <li>Tier 1 (One-Time): Point-in-Time Exposure Audit or Baseline Digital Footprint Assessment.</li>
+  <li>Tier 1 | One-Time: Point-in-Time Exposure Audit or Baseline Digital Footprint Assessment.</li>
   <ul>
       <li>Payment Process: We utilize a 50% deposit and 50% on delivery structure. Work begins only when the initial deposit clears. Upon completion of the OSINT investigation, a redacted or watermarked proof-of-work is sent. The final, actionable intelligence report is released immediately upon receipt of the final 50% payment.</li>
-      <li>Pricing Model: Flat-fee per asset (e.g., $500 to $2,000+ depending on depth) or a "per-query/subject" basis.</li>
+      <li>Pricing Model | $500 to $2,000+ Depending on Depth: Flat-fee per asset or a "per-query/subject" basis.</li>
     </ul>
-  <li>Tier 2 (Recurring): Continuous Threat Exposure Management or Active OSINT Monitoring.</li>
+  <li>Tier 2 | Recurring: Continuous Threat Exposure Management or Active OSINT Monitoring.</li>
     <ul>
       <li>Payment Process: We utilize a Pre-Authorized Monthly Retainer (e-Transfer auto-pay) model. Clients agree to a subscription via Bank to Bank e-Transfer auto-payment (agreements are to be written as an e-Transfer message). Payment is expected on the 1st of every month to secure our team’s availability for continuous OSINT monitoring and intelligence analysis.</li>
       <li>Pricing Model and Monthly Subscription Tiers:</li>
         <ul>
-      <li>Tier 1 (Monitoring Only): Automated alerting on compromised credentials, dark-web mentions, and brand impersonation.</li>
-      <li>Tier 2 (Threat Hunting): Baseline monitoring + a set number of reserved investigative analyst hours per month (e.g., 5-10 hours).</li>
-      <li>Tier 3 (Active Incident/Advanced OSINT): Dedicated, priority-routing SLAs for real-time investigation or deep-dive threat intelligence.</li>
+      <li>Tier 1 | Monitoring Only | $2,500 - $5,000/Month: Automated alerting on compromised credentials, dark-web mentions, and brand impersonation.</li>
+      <li>Tier 2 | Threat Hunting | $7,500 - $12,500/Month: Baseline monitoring + a set number of reserved investigative analyst hours per month (e.g., 5-10 hours).</li>
+      <li>Tier 3 | Active Incident/Advanced OSINT | $15,000 - $25,000+/Month: Dedicated, priority-routing SLAs for real-time investigation or deep-dive threat intelligence.</li>
     </ul>
     </ul>
 </ul>
