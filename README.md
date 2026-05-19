@@ -29,7 +29,7 @@
 
 ## Terms and Conditions &#9000; 
 <ul>
-  <li>OSINT & Cybersecurity Terms (All Clients):</li>
+  <li>Terms for All Clients:</li>
   <ul>
       <li>Ethical Intelligence Clause: All collection is bound by legal parameters (no unauthorized access, hacking, or scraping behind paywalls).</li>
       <li>Source/Platform Disclaimers: OSINT deliverables rely on the availability, accuracy, and completeness of public data.</li>
