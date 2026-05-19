@@ -1,10 +1,10 @@
-## OSINT Services &#9000; 
+## OSINT Services &#9000;
 <ul>
   <li>Point one</li>
   <li>Point two</li>
 </ul>
 
-## USB Tools &#9881; 
+## USB Tools &#9881;
 <ul>
   <li>Pentesting Distributions - Portable operating systems (e.g., Kali Linux for penetration testing) run directly from the USB drive's memory without altering the host computer's native hard drive.</li>
   <li>Forensic Live Bootable OS Environment - Portable operating system (e.g., CAINE for forensics) run directly from the USB drive's memory without altering the host computer's native hard drive.</li>
