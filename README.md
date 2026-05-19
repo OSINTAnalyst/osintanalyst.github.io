@@ -1,7 +1,7 @@
 ## OSINT Services &#9000; 
 <ul>
-  <li>Point one</li>
-  <li>Point two</li>
+  <li>Tier 1 (One-Time): Point-in-Time Exposure Audit or Baseline Digital Footprint Assessment</li>
+  <li>Tier 2 (Recurring): Continuous Threat Exposure Management (CTEM) or Active OSINT Monitoring</li>
 </ul>
 
 ## USB Tools &#9881;
