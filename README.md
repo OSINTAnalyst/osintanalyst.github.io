@@ -1,12 +1,12 @@
 ## OSINT Analyst for Hire &#9000;
 <ul>
-  <li>Tier 1 | One-Time Service: Point-in-Time Exposure Audit or Baseline Digital Footprint Assessment.</li>
+  <li>Tier 1 | One-Time Service | Point-in-Time Exposure Audit or Baseline Digital Footprint Assessment:</li>
   <ul>
       <li>Payment Process: We utilize a 50% deposit and 50% on delivery structure. Work begins only when the initial deposit clears. Upon completion of the OSINT investigation, a redacted or watermarked proof-of-work is sent. The final, actionable intelligence report is released immediately upon receipt of the final 50% payment.</li>
       <li>Pricing Model | $500 to $2,000+/Depending on Depth: Flat-fee per asset or a "per-query/subject" basis.</li>
     </ul>
   <br/>
-  <li>Tier 2 | Recurring Service: Continuous Threat Exposure Management or Active OSINT Monitoring.</li>
+  <li>Tier 2 | Recurring Service | Continuous Threat Exposure Management or Active OSINT Monitoring:</li>
     <ul>
       <li>Payment Process: We utilize a Pre-Authorized Monthly Retainer (e-Transfer auto-pay) model. Clients agree to a subscription via Bank to Bank e-Transfer auto-payment (agreements are to be written as an e-Transfer message). Payment is expected on the 1st of every month to secure our team’s availability for continuous OSINT monitoring and intelligence analysis.</li>
       <li>Pricing Model and Monthly Subscription Tiers:</li>
