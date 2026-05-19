@@ -6,7 +6,8 @@
 
 ## USB Tools &#9881; 
 <ul>
-  <li>Live Bootable OS Environments - Portable operating systems (e.g., Kali Linux for penetration testing, CAINE for forensics) run directly from the USB drive's memory without altering the host computer's native hard drive.</li>
+  <li>Pentesting Distributions - Portable operating systems (e.g., Kali Linux for penetration testing) run directly from the USB drive's memory without altering the host computer's native hard drive.</li>
+  <li>Forensic Live Bootable OS Environment - Portable operating system (e.g., CAINE for forensics) run directly from the USB drive's memory without altering the host computer's native hard drive.</li>
   <li>Yellowkey - A specific zero-day vulnerability/exploit class in the Windows Recovery Environment (WinRE) that bypasses BitLocker to unlock drives without a PIN or password.</li>
   <li>Password Stealer - A USB drive that relies on malicious scripts or specialized malware (such as credential harvesters) to automatically copy sensitive files, browser caches, or saved passwords to the flash drive once connected.</li>
   <li>Power Surge Device or Hardware Destruction Device - A device designed to physically destroy computer hardware. It rapidly charges internal capacitors from the USB power lines and forcefully discharges the electrical load back into the data pins, frying the motherboard.</li>
