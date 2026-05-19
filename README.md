@@ -1,6 +1,10 @@
 ## OSINT Services &#9000; 
 <ul>
   <li>Tier 1 (One-Time): Point-in-Time Exposure Audit or Baseline Digital Footprint Assessment.</li>
+  <ul>
+      <li>Sub-item A</li>
+      <li>Sub-item B</li>
+    </ul>
   <li>Tier 2 (Recurring): Continuous Threat Exposure Management or Active OSINT Monitoring.</li>
 </ul>
 
