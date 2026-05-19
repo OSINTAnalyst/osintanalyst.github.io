@@ -6,6 +6,7 @@
 
 ## USB Tools &#9881;
 <ul>
+  <li>Password Protected USB Drive - Protect your USB drive with a password.</li>
   <li>Linux Pentesting Distributions - Portable live bootable OS Environment (e.g., Kali Linux, Parrot, BlackBox, BlackArch, Fedora, and Tails for penetration testing) run directly from the USB drive's memory without altering the host computer's native hard drive.</li>
   <li>Linux Forensics Distribution - Portable live bootable OS Environment (e.g., CAINE for forensics) run directly from the USB drive's memory without altering the host computer's native hard drive.</li>
   <li>Physical Privilege Escalation Tool - A USB drive zero-day vulnerability/exploit class in the Windows Recovery Environment (WinRE) that bypasses BitLocker to unlock drives without a PIN or password.</li>
