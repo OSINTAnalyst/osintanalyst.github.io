@@ -1,4 +1,4 @@
-## OSINT Analyst for Hire &#9000; 
+## OSINT Analyst for Hire &#9000;
 <ul>
   <li>Tier 1 | One-Time Service: Point-in-Time Exposure Audit or Baseline Digital Footprint Assessment.</li>
   <ul>
