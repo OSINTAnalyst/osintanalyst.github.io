@@ -9,8 +9,8 @@
   <li>Linux Pentesting Distributions - Portable live bootable OS Environment (e.g., Kali Linux, Parrot, BlackBox, BlackArch, Fedora, and Tails for penetration testing) run directly from the USB drive's memory without altering the host computer's native hard drive.</li>
   <li>Linux Forensics Distribution - Portable live bootable OS Environment (e.g., CAINE for forensics) run directly from the USB drive's memory without altering the host computer's native hard drive.</li>
   <li>Physical Privilege Escalation Device - Yellowkey, is a specific zero-day vulnerability/exploit class in the Windows Recovery Environment (WinRE) that bypasses BitLocker to unlock drives without a PIN or password.</li>
-  <li>Password Stealer - A USB drive that relies on malicious scripts or specialized malware (such as credential harvesters) to automatically copy sensitive files, browser caches, or saved passwords to the flash drive once connected.</li>
-  <li>Power Surge Device or Hardware Destruction Device - A device designed to physically destroy computer hardware. It rapidly charges internal capacitors from the USB power lines and forcefully discharges the electrical load back into the data pins, frying the motherboard.</li>
+  <li>Credential Data Exfiltration Device - A USB drive that automatically copies sensitive files, browser caches, or saved passwords to the flash drive once connected.</li>
+  <li>Power Surge Device - A device designed to physically destroy computer hardware. It rapidly charges internal capacitors from the USB power lines and forcefully discharges the electrical load back into the data pins, frying the motherboard, and destroying the hardware.</li>
 </ul>
 
 ## Contact &#x2709; 
