@@ -32,6 +32,12 @@
       <li>Deliverables: Findings are provided via a Point-in-Time (PIT) Intelligence Report.</li>
       <li>Intellectual Property: The report becomes our client's property only upon full payment.</li>
     </ul>
+  <li>Terms for On-Going Clients:</li>
+    <ul>
+      <li>SLA (Service Level Agreement): We guarantee specific response times (e.g., continuous monitoring, emergency threat alerts).</li>
+      <li>Subscription Term & Cancellation: Outline the length of the retainer (e.g., 6 or 12 months) and penalties for early termination.</li>
+      <li>Data Sovereignty: Assure the client that their ongoing intelligence data and threat indicators are safely stored and compliant with local privacy laws.</li>
+    </ul>
 </ul>
 
 ## Contact &#x2709;
