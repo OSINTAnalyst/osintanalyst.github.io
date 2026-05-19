@@ -10,9 +10,9 @@
       <li>Payment Process: We utilize a Pre-Authorized Monthly Retainer (e-Transfer auto-pay) model. Clients agree to a subscription via Bank to Bank e-Transfer auto-payment (agreements are to be written as an e-Transfer message). Payment is expected on the 1st of every month to secure our team’s availability for continuous OSINT monitoring and intelligence analysis.</li>
       <li>Pricing Model and Monthly Subscription Tiers:</li>
         <ul>
-      <li>Tier 1 | Monitoring Only Service | $2,500 - $5,000/Month: Automated alerting on compromised credentials, dark-web mentions, and brand impersonation.</li>
-      <li>Tier 2 | Threat Hunting Service | $7,500 - $12,500/Month: Baseline monitoring, plus 10 hours of reserved investigative analyst hours per month.</li>
-      <li>Tier 3 | Active Incident/Advanced OSINT Service | $15,000 - $25,000+/Month: Dedicated, priority-routing SLAs for real-time investigation or deep-dive threat intelligence.</li>
+      <li>Monitoring Only Service | $2,500 - $5,000/Month: Automated alerting on compromised credentials, dark-web mentions, and brand impersonation.</li>
+      <li>Threat Hunting Service | $7,500 - $12,500/Month: Baseline monitoring, plus 10 hours of reserved investigative analyst hours per month.</li>
+      <li>Active Incident/Advanced OSINT Service | $15,000 - $25,000+/Month: Dedicated, priority-routing SLAs for real-time investigation or deep-dive threat intelligence.</li>
     </ul>
     </ul>
 </ul>
