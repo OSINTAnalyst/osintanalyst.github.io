@@ -18,6 +18,17 @@
   <li>Power Surge Tool: A USB drive designed to physically destroy computer hardware. It rapidly charges internal capacitors from the USB power lines and forcefully discharges the electrical load back into the data pins, frying the motherboard, and destroying the hardware.</li>
 </ul>
 
+## Terms and Conditions &#9000; 
+<ul>
+  <li>Common OSINT & Cybersecurity Terms (All Clients):</li>
+  <ul>
+      <li>Ethical Intelligence Clause: All collection is bound by legal parameters (no unauthorized access, hacking, or scraping behind paywalls).</li>
+      <li>Source/Platform Disclaimers: OSINT deliverables rely on the availability, accuracy, and completeness of public data.</li>
+      <li>Confidentiality & Non-Disclosure Agreement (NDA): We protect our client's targets, search parameters, and the intelligence findings themselves from unauthorized third-party disclosure.</li>
+    </ul>
+  <li>Tier 2 (Recurring): Continuous Threat Exposure Management or Active OSINT Monitoring.</li>
+</ul>
+
 ## Contact &#x2709;
 <ul>
   <li>[Email Address Loading]...</li>
