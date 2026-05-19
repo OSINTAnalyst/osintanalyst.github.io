@@ -4,7 +4,7 @@
   <li>Point two</li>
 </ul>
 
-## USB Tools &#9881;
+## USB Tools &#9881; 
 <ul>
   <li>Linux Pentesting Distributions - Portable live bootable OS Environment (e.g., Kali Linux, Parrot, BlackBox, BlackArch, Fedora, and Tails for penetration testing) run directly from the USB drive's memory without altering the host computer's native hard drive.</li>
   <li>Linux Forensics Distribution - Portable live bootable OS Environment (e.g., CAINE for forensics) run directly from the USB drive's memory without altering the host computer's native hard drive.</li>
