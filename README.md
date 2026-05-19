@@ -26,7 +26,12 @@
       <li>Source/Platform Disclaimers: OSINT deliverables rely on the availability, accuracy, and completeness of public data.</li>
       <li>Confidentiality & Non-Disclosure Agreement (NDA): We protect our client's targets, search parameters, and the intelligence findings themselves from unauthorized third-party disclosure.</li>
     </ul>
-  <li>Tier 2 (Recurring): Continuous Threat Exposure Management or Active OSINT Monitoring.</li>
+  <li>Terms for One-Time Clients:</li>
+    <ul>
+      <li>Scope of Work (SOW): Define the exact asset (e.g., domain, alias, target) to be investigated and the hard limit of the engagement.</li>
+      <li>Deliverables: Findings are provided via a Point-in-Time (PIT) Intelligence Report.</li>
+      <li>Intellectual Property: The report becomes our client's property only upon full payment.</li>
+    </ul>
 </ul>
 
 ## Contact &#x2709;
