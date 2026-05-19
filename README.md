@@ -2,8 +2,8 @@
 <ul>
   <li>Tier 1 (One-Time): Point-in-Time Exposure Audit or Baseline Digital Footprint Assessment.</li>
   <ul>
-      <li>Sub-item A</li>
-      <li>Sub-item B</li>
+      <li>Payment Process: We utilize a 50% deposit and 50% on delivery structure. Work begins only when the initial deposit clears. Upon completion of the OSINT investigation, a redacted or watermarked proof-of-work is sent. The final, actionable intelligence report is released immediately upon receipt of the final 50% payment.</li>
+      <li>Pricing Model: Flat-fee per asset (e.g., $500 to $2,000+ depending on depth) or a "per-query/subject" basis.</li>
     </ul>
   <li>Tier 2 (Recurring): Continuous Threat Exposure Management or Active OSINT Monitoring.</li>
 </ul>
