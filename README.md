@@ -63,9 +63,9 @@
       <li>Explicit Authorization Required: You must obtain express, written permission from the owner of any computer system, network, or device before performing any testing or accessing any data. Unauthorized access or interference with computer systems is a criminal offense in Canada.</li>
       <li>Prohibition of Malicious Use | You Agree Not to Use These Tools For:</li>
     <ul>
-      <li><span style="color: #FFFF00;">Unauthorized access to any private or public network.</span></li>
-      <li><span style="color: #FFFF00;">Data theft, destruction, or "mischief" as defined under Canadian law.</span></li>
-      <li><span style="color: #FFFF00;">Any activity that violates the privacy or security of individuals or organizations.</span></li>
+      <li><span style="color: #FF5555;">Unauthorized access to any private or public network.</span></li>
+      <li><span style="color: #FF5555;">Data theft, destruction, or "mischief" as defined under Canadian law.</span></li>
+      <li><span style="color: #FF5555;">Any activity that violates the privacy or security of individuals or organizations.</span></li>
     </ul>
       <li>Limitation of Liability: OSINT Analyst provides these Tools "as is" and assumes no responsibility or liability for any misuse, damage, or legal consequences resulting from your actions. You agree to indemnify and hold [Your Company Name] harmless from any claims arising from your use of the Tools.</li>
       <li>Right to Refuse Sale: OSINT Analyst reserves the right to refuse or cancel any sale if there is reason to believe the Tools will be used for unauthorized or illegal activities.</li>
