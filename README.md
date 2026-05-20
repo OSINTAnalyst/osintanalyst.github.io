@@ -55,6 +55,20 @@
       <li>Subscription Term & Cancellation: Outline the length of the retainer (e.g., 6 or 12 months) and penalties for early termination.</li>
       <li>Data Sovereignty: We can assure our clients that their ongoing intelligence data and threat indicators are safely stored and compliant with local privacy laws.</li>
     </ul>
+    <br/>
+  <li>IMPORTANT LEGAL NOTICE: ETHICAL USE AND COMPLIANCE REGARDING OUR USB TOOLS:</li>
+    <ul>
+      <li>Intended Purpose: All hardware, software, and educational materials (the "Tools") provided by [Your Company Name] are intended strictly for ethical hacking, professional penetration testing, and educational purposes. These Tools are designed to help security professionals and researchers identify vulnerabilities and improve defensive posture.</li>
+      <li>Compliance with Laws: By purchasing or using these Tools, you agree to comply with all local, provincial, federal, and international laws, including but not limited to the Criminal Code of Canada (Sections 342.1, 342.2, and 430). It is your sole responsibility to ensure your use of these Tools is lawful.</li>
+      <li>Explicit Authorization Required: You must obtain express, written permission from the owner of any computer system, network, or device before performing any testing or accessing any data. Unauthorized access or interference with computer systems is a criminal offense in Canada.</li>
+      <li>Prohibition of Malicious Use: You agree not to use these Tools for:Unauthorized access to any private or public network.Data theft, destruction, or "mischief" as defined under Canadian law.Any activity that violates the privacy or security of individuals or organizations.</li>
+      <li>Explicit Authorization Required: You must obtain express, written permission from the owner of any computer system, network, or device before performing any testing or accessing any data. Unauthorized access or interference with computer systems is a criminal offense in Canada.</li>
+              <ul>
+      <li><span style="color: #FFFF00;">Monitoring Only Service</span> | <span style="color: #00FF00;">$2,500 - $5,000/Month</span>: Automated alerting on compromised credentials, dark-web mentions, and brand impersonation.</li>
+      <li><span style="color: #FFFF00;">Threat Hunting Service</span> | <span style="color: #00FF00;">$7,500 - $12,500/Month</span>: Baseline monitoring, plus 10 hours of reserved investigative analyst hours per month.</li>
+      <li><span style="color: #FFFF00;">Active Incident/Advanced OSINT Service</span> | <span style="color: #00FF00;">$15,000 - $25,000+/Month</span>: Dedicated, priority-routing SLAs for real-time investigation or deep-dive threat intelligence.</li>
+    </ul>
+    </ul>
 </ul>
 
 ## Contact &#x2709;
