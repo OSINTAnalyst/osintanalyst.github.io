@@ -22,15 +22,6 @@
 <ul>
   <li><span style="color: #FFFF00;">Password Protected USB Drive</span> | : Protect your USB drive with a password.</li>
   <br/>
-  <li><span style="color: #FFFF00;">Linux Pentesting Distributions</span> | : Portable live bootable OS Environment (e.g., Kali Linux, Parrot, BlackBox, BlackArch, Fedora, and Tails for penetration testing) run directly from the USB drive's memory without altering the host computer's native hard drive.</li>
-  <br/>
-  <li><span style="color: #FFFF00;">Linux Forensics Distribution</span> | : Portable live bootable OS Environment (e.g., CAINE for forensics) run directly from the USB drive's memory without altering the host computer's native hard drive.</li>
-  <br/>
-  <li><span style="color: #FFFF00;">Physical Privilege Escalation Tool</span> | : A USB drive zero-day vulnerability/exploit class in the Windows Recovery Environment (WinRE) that bypasses BitLocker to unlock drives without a PIN or password.</li>
-  <br/>
-  <li><span style="color: #FFFF00;">Credential Exfiltration Tool</span> | : A USB drive that automatically copies sensitive files, browser caches, or saved passwords to the flash drive once connected.</li>
-  <br/>
-  <li><span style="color: #FFFF00;">Power Surge Tool</span> | : A USB drive designed to physically destroy computer hardware. It rapidly charges internal capacitors from the USB power lines and forcefully discharges the electrical load back into the data pins, frying the motherboard, and destroying the hardware.</li>
 </ul>
 
 ## Terms and Conditions &#9878;
