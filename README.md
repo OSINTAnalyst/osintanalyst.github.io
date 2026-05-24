@@ -32,7 +32,6 @@
         <ul>
   <br/>
 </ul>
-</ul>
 
 ## Terms and Conditions &#9878;
 <ul>
