@@ -27,23 +27,6 @@
     </ul>
 </ul>
 
-
-
-
-
-<ul>
-  <li><span style="color: #FFFF00;">Portable Executive Bootable USB OSINT Analyst Workstation POAW v1.0</span> | <span style="color: #FFFF00;">$999</span></li>
-    <ul>
-      <li><span style="color: #FF5555;">Features</span>:</li>
-        <ul>
-      <li><span style="color: #FF5555;">Boots into a clean OSINT operating system.</span></li>
-      <li><span style="color: #FF5555;">Automatically provides OSINT tools.</span></li>
-      <li><span style="color: #FF5555;">Organizes investigations like an analyst workspace.</span></li>
-      <li><span style="color: #FF5555;">Generates executive-ready reports.</li>
-      </ul>
-  <br/>
-</ul> 
-
 ## Terms and Conditions &#9878;
 <ul>
   <li>Terms for All Clients:</li>
