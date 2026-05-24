@@ -20,7 +20,7 @@
 
 ## OSINT Tools for Sale &#9881;
 <ul>
-  <li><span style="color: #FFFF00;">Portable Executive Bootable USB OSINT Analyst Workstation v1.0</span> | <span style="color: #FFFF00;">$999</span></li>
+  <li><span style="color: #FFFF00;">Portable Executive Bootable USB OSINT Analyst Workstation v1.0</span></li>
   <ul>
       <li><span style="color: #FF5555;">Payment Process</span>: OSINT Analyst utilizes a 50% deposit and 50% on delivery structure. Work begins only when the initial deposit clears. Upon completion of the OSINT investigation, a redacted or watermarked proof-of-work is sent. The final, actionable intelligence report is released immediately upon receipt of the final 50% payment.</li>
       <li><span style="color: #FF5555;">Pricing Model</span> | <span style="color: #00FF00;">$500 to $2,000+/Depending on Depth</span>: Flat-fee per asset or a "per-query/subject" basis.</li>
