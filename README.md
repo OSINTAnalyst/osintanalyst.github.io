@@ -26,9 +26,10 @@
       <li><span style="color: #FF5555;">Pricing Model</span> | <span style="color: #00FF00;">$500 to $2,000+/Depending on Depth</span>: Flat-fee per asset or a "per-query/subject" basis.</li>
          <li>Features:</li>
     <ul>
-      <li><span style="color: #FF5555;">Unauthorized access to any private or public network.</span></li>
-      <li><span style="color: #FF5555;">Data theft, destruction, or "mischief" as defined under Canadian law.</span></li>
-      <li><span style="color: #FF5555;">Any activity that violates the privacy or security of individuals or organizations.</span></li>
+      <li><span style="color: #FF5555;">Boots into a clean OSINT operating system.</span></li>
+      <li><span style="color: #FF5555;">Automatically provides OSINT tools.</span></li>
+      <li><span style="color: #FF5555;">Organizes investigations like an analyst workspace.</span></li>
+      <li><span style="color: #FF5555;">Generates executive-ready reports.</span></li>
     </ul>
     </ul>
 </ul>
