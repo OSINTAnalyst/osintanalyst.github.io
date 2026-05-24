@@ -24,14 +24,13 @@
     <ul>
       <li><span style="color: #FF5555;">Features</span>:</li>
         <ul>
-          <ul>
       <li><span style="color: #FF5555;">Boots into a clean OSINT operating system.</span></li>
       <li><span style="color: #FF5555;">Automatically provides OSINT tools.</span></li>
       <li><span style="color: #FF5555;">Organizes investigations like an analyst workspace.</span></li>
       <li><span style="color: #FF5555;">Generates executive-ready reports.</li>
-        <ul>
+      </ul>
   <br/>
-</ul>
+</ul> 
 
 ## Terms and Conditions &#9878;
 <ul>
