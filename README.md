@@ -23,7 +23,7 @@
   <li><span style="color: #FFFF00;">Portable Executive Bootable USB OSINT Analyst Workstation v1.0</span></li>
   <ul>
       <li><span style="color: #FF5555;">Payment Process</span>: OSINT Analyst utilizes a 50% deposit and 50% on delivery structure. Work begins only when the initial deposit clears. Upon completion of the OSINT investigation, a redacted or watermarked proof-of-work is sent. The final, actionable intelligence report is released immediately upon receipt of the final 50% payment.</li>
-      <li><span style="color: #FF5555;">Pricing Model</span> | <span style="color: #00FF00;">$999</span>: Flat-fee per asset or a "per-query/subject" basis.</li>
+      <li><span style="color: #FF5555;">Price</span> | <span style="color: #00FF00;">$999</span>: Flat-fee per asset or a "per-query/subject" basis.</li>
          <li>Features:</li>
     <ul>
       <li><span style="color: #FF5555;">Boots into a clean OSINT operating system.</span></li>
