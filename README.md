@@ -20,9 +20,9 @@
 
 ## OSINT Tools for Sale &#9881;
 <ul>
-  <li><span style="color: #FFFF00;">Executive Bootable USB OSINT Analyst Operating System v1.0</span></li>
+  <li><span style="color: #FFFF00;">Portable Automated OSINT Analyst Operating System v1.0</span></li>
   <ul>
-      <li><span style="color: #FF5555;">Description</span>: A portable OSINT (Open Source Intelligence) Analyst in a USB stick.</li>
+      <li><span style="color: #FF5555;">Description</span>: A portable OSINT (Open Source Intelligence) Analyst in a bootable USB stick.</li>
       <li><span style="color: #FF5555;">Price</span> | <span style="color: #00FF00;">$999</span></li>
          <li>Features:</li>
     <ul>
