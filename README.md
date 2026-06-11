@@ -5,7 +5,7 @@
       <li><span style="color: #FF5555;">Payment Process</span>: OSINT Analyst utilizes a 50% deposit and 50% on delivery structure. Work begins only when the initial deposit clears. Upon completion of the OSINT investigation, a redacted or watermarked proof-of-work is sent. The final, actionable intelligence report is released immediately upon receipt of the final 50% payment.</li>
       <li><span style="color: #FF5555;">Services and Prices</span> | <span style="color: #00FF00;">$150 to $15,000+ Depending on Depth</span>: Flat-fee per asset or a "per-query/subject" basis.</li>
        <ul>
-      <li><span style="color: #FFFF00;">Basic Person OSINT Investigation</span> | <span style="color: #00FF00;">$250 - $500</span>: Public records, social media, aliases, and digital footprint.</li>
+      <li><span style="color: #FFFF00;">Basic Person OSINT Investigation</span> | <span style="color: #00FF00;">$500</span>: Public records, social media, aliases, and digital footprint.</li>
       <li><span style="color: #FFFF00;">Threat Hunting Service</span> | <span style="color: #00FF00;">$7,500 - $12,500/Month</span>: Baseline monitoring, plus 10 hours of reserved investigative analyst hours per month.</li>
       <li><span style="color: #FFFF00;">Active Incident/Advanced OSINT Service</span> | <span style="color: #00FF00;">$15,000 - $25,000+/Month</span>: Dedicated, priority-routing SLAs for real-time investigation or deep-dive threat intelligence.</li>
     </ul>
