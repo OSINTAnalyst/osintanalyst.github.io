@@ -46,9 +46,12 @@
       <li><span style="color: #FF5555;">Payment Process</span>: OSINT Analyst utilizes a Pre-Authorized Monthly Retainer (e-Transfer auto-pay) model. Clients agree to a subscription via Bank to Bank e-Transfer auto-payment (agreements are to be written as an e-Transfer message). Payment is expected on the 1st of every month to secure our team’s availability for continuous OSINT monitoring and intelligence analysis.</li>
       <li><span style="color: #FF5555;">Services and Prices</span> | <span style="color: #00FF00;">$500 to $20,000+/Month Depending on Depth</span>: Flat-fee per asset or a "per-query/subject" basis.</li>
         <ul>
-      <li><span style="color: #FFFF00;">Monitoring Only Service</span> | <span style="color: #00FF00;">$2,500 - $5,000/Month</span>: Automated alerting on compromised credentials, dark-web mentions, and brand impersonation.</li>
-      <li><span style="color: #FFFF00;">Threat Hunting Service</span> | <span style="color: #00FF00;">$7,500 - $12,500/Month</span>: Baseline monitoring, plus 10 hours of reserved investigative analyst hours per month.</li>
-      <li><span style="color: #FFFF00;">Active Incident/Advanced OSINT Service</span> | <span style="color: #00FF00;">$15,000 - $25,000+/Month</span>: Dedicated, priority-routing SLAs for real-time investigation or deep-dive threat intelligence.</li>
+      <li><span style="color: #FFFF00;">Geolocation Investigation</span> | <span style="color: #00FF00;">$2,500</span>: Location verification from online data.</li>
+      <li><span style="color: #FFFF00;">Image Verification</span> | <span style="color: #00FF00;">$750</span>: Reverse image and authenticity analysis.</li>
+      <li><span style="color: #FFFF00;">Video Verification</span> | <span style="color: #00FF00;">$1,500</span>: Metadata and authenticity review.</li>
+      <li><span style="color: #FFFF00;">Dark Web Exposure Check</span> | <span style="color: #00FF00;">$2,500</span>: Surface and dark web mentions.</li>
+      <li><span style="color: #FFFF00;">Brand Abuse Investigation</span> | <span style="color: #00FF00;">$5,000</span>: Counterfeit or impersonation analysis.</li>
+      <li><span style="color: #FFFF00;">Comprehensive Intelligence Report</span> | <span style="color: #00FF00;">$15,000</span>: Full multi-source intelligence dossier.</li>
     </ul>
     </ul>
 </ul>
