@@ -46,12 +46,26 @@
       <li><span style="color: #FF5555;">Payment Process</span>: OSINT Analyst utilizes a Pre-Authorized Monthly Retainer (e-Transfer auto-pay) model. Clients agree to a subscription via Bank to Bank e-Transfer auto-payment (agreements are to be written as an e-Transfer message). Payment is expected on the 1st of every month to secure our team’s availability for continuous OSINT monitoring and intelligence analysis.</li>
       <li><span style="color: #FF5555;">Services and Prices</span> | <span style="color: #00FF00;">$500 to $20,000+/Month Depending on Depth</span>: Flat-fee per asset or a "per-query/subject" basis.</li>
         <ul>
-      <li><span style="color: #FFFF00;">Geolocation Investigation</span> | <span style="color: #00FF00;">$2,500</span>: Location verification from online data.</li>
-      <li><span style="color: #FFFF00;">Image Verification</span> | <span style="color: #00FF00;">$750</span>: Reverse image and authenticity analysis.</li>
-      <li><span style="color: #FFFF00;">Video Verification</span> | <span style="color: #00FF00;">$1,500</span>: Metadata and authenticity review.</li>
-      <li><span style="color: #FFFF00;">Dark Web Exposure Check</span> | <span style="color: #00FF00;">$2,500</span>: Surface and dark web mentions.</li>
-      <li><span style="color: #FFFF00;">Brand Abuse Investigation</span> | <span style="color: #00FF00;">$5,000</span>: Counterfeit or impersonation analysis.</li>
-      <li><span style="color: #FFFF00;">Comprehensive Intelligence Report</span> | <span style="color: #00FF00;">$15,000</span>: Full multi-source intelligence dossier.</li>
+      <li><span style="color: #FFFF00;">Brand Monitoring</span> | <span style="color: #00FF00;">$2,500/Month</span>: Mentions, impersonation, and sentiment.</li>
+      <li><span style="color: #FFFF00;">Executive Monitoring</span> | <span style="color: #00FF00;">$5,000/Month</span>: Exposure, threats, and mentions.</li>
+      <li><span style="color: #FFFF00;">Reputation Monitoring</span> | <span style="color: #00FF00;">$3,000/Month</span>: Ongoing reputation intelligence.</li>
+      <li><span style="color: #FFFF00;">Social Media Monitoring</span> | <span style="color: #00FF00;">$2,500/Month</span>: Continuous account monitoring.</li>
+      <li><span style="color: #FFFF00;">Dark Web Monitoring</span> | <span style="color: #00FF00;">$5,000/Month</span>: Leaks, credentials, and mentions.</li>
+      <li><span style="color: #FFFF00;">Threat Intelligence Monitoring</span> | <span style="color: #00FF00;">$10,000/Month</span>: Threat actor and campaign tracking.</li>
+                <li><span style="color: #FFFF00;">Competitor Intelligence</span> | <span style="color: #00FF00;">$7,500/Month</span>: Market and competitor activity.</li>
+      <li><span style="color: #FFFF00;">Corporate Risk Monitoring</span> | <span style="color: #00FF00;">$10,000/Month</span>: Emerging risks and incidents.</li>
+      <li><span style="color: #FFFF00;">Vendor Risk Monitoring</span> | <span style="color: #00FF00;">$5,000/Month</span>: Supplier reputation and issues.</li>
+      <li><span style="color: #FFFF00;">Cyber Exposure Monitoring</span> | <span style="color: #00FF00;">$5,000/Month</span>: Domains, leaks, and infrastructure.</li>
+      <li><span style="color: #FFFF00;">Executive Protection Intelligence</span> | <span style="color: #00FF00;">$10,000/Month</span>: Threats and doxxing alerts.</li>
+      <li><span style="color: #FFFF00;">Political Risk Monitoring</span> | <span style="color: #00FF00;">$20,000/Month</span>: Regional and geopolitical intelligence.</li>
+                <li><span style="color: #FFFF00;">Event Intelligence Monitoring</span> | <span style="color: #00FF00;">$7,500/Month</span>: Protest, threat, and disruption alerts.</li>
+      <li><span style="color: #FFFF00;">Media Monitoring</span> | <span style="color: #00FF00;">$3,000/Month</span>: News and media intelligence.</li>
+      <li><span style="color: #FFFF00;">Cryptocurrency Monitoring</span> | <span style="color: #00FF00;">$10,000/Month</span>: Wallet and transaction monitoring.</li>
+      <li><span style="color: #FFFF00;">Counterparty Monitoring</span> | <span style="color: #00FF00;">$5,000/Month</span>: Ongoing due diligence updates.</li>
+      <li><span style="color: #FFFF00;">Insider Threat Monitoring</span> | <span style="color: #00FF00;">$7,500/Month</span>: Public indicators of insider risk.</li>
+                <li><span style="color: #FFFF00;">Supply Chain Intelligence</span> | <span style="color: #00FF00;">$10,000/Month</span>: Supply chain risk monitoring.</li>
+      <li><span style="color: #FFFF00;">Continuous Due Diligence</span> | <span style="color: #00FF00;">$7,500/Month</span>: Monthly intelligence updates.</li>
+      <li><span style="color: #FFFF00;">Custom Intelligence Retainer</span> | <span style="color: #00FF00;">$20,000/Month</span>: edicated analyst hours.</li>
     </ul>
     </ul>
 </ul>
