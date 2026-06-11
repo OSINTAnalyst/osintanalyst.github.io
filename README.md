@@ -6,8 +6,8 @@
       <li><span style="color: #FF5555;">Services and Prices</span> | <span style="color: #00FF00;">$150 to $15,000+ Depending on Depth</span>: Flat-fee per asset or a "per-query/subject" basis.</li>
        <ul>
       <li><span style="color: #FFFF00;">Basic Person OSINT Investigation</span> | <span style="color: #00FF00;">$500</span>: Public records, social media, aliases, and digital footprint.</li>
-      <li><span style="color: #FFFF00;">Comprehensive Background Investigatio</span> | <span style="color: #00FF00;">$2,000</span>: Employment, business interests, online activity, and associates.</li>
-      <li><span style="color: #FFFF00;">Active Incident/Advanced OSINT Service</span> | <span style="color: #00FF00;">$15,000 - $25,000+/Month</span>: Dedicated, priority-routing SLAs for real-time investigation or deep-dive threat intelligence.</li>
+      <li><span style="color: #FFFF00;">Comprehensive Background Investigation</span> | <span style="color: #00FF00;">$2,000</span>: Employment, business interests, online activity, and associates.</li>
+      <li><span style="color: #FFFF00;">Identity Verification</span> | <span style="color: #00FF00;">$600</span>: Confirm whether a person is genuine.</li>
     </ul>
   </ul>
   <br/>
