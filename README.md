@@ -3,9 +3,9 @@
   <li><span style="color: #FF00FF;">Tier 1</span> | <span style="color: #00FFFF;">One-Time Service</span> | <span style="color: #FFFF00;">Point-in-Time Exposure Audit or Baseline Digital Footprint Assessment</span>:</li>
   <ul>
       <li><span style="color: #FF5555;">Payment Process</span>: OSINT Analyst utilizes a 50% deposit and 50% on delivery structure. Work begins only when the initial deposit clears. Upon completion of the OSINT investigation, a redacted or watermarked proof-of-work is sent. The final, actionable intelligence report is released immediately upon receipt of the final 50% payment.</li>
-      <li><span style="color: #FF5555;">Services and Prices</span> | <span style="color: #00FF00;">$500 to $2,000+/Depending on Depth</span>: Flat-fee per asset or a "per-query/subject" basis.</li>
+      <li><span style="color: #FF5555;">Services and Prices</span> | <span style="color: #00FF00;">$150 to $15,000+ Depending on Depth</span>: Flat-fee per asset or a "per-query/subject" basis.</li>
        <ul>
-      <li><span style="color: #FFFF00;">Monitoring Only Service</span> | <span style="color: #00FF00;">$2,500 - $5,000/Month</span>: Automated alerting on compromised credentials, dark-web mentions, and brand impersonation.</li>
+      <li><span style="color: #FFFF00;">Basic Person OSINT Investigation</span> | <span style="color: #00FF00;">$250 - $500</span>: Public records, social media, aliases, and digital footprint.</li>
       <li><span style="color: #FFFF00;">Threat Hunting Service</span> | <span style="color: #00FF00;">$7,500 - $12,500/Month</span>: Baseline monitoring, plus 10 hours of reserved investigative analyst hours per month.</li>
       <li><span style="color: #FFFF00;">Active Incident/Advanced OSINT Service</span> | <span style="color: #00FF00;">$15,000 - $25,000+/Month</span>: Dedicated, priority-routing SLAs for real-time investigation or deep-dive threat intelligence.</li>
     </ul>
@@ -14,7 +14,7 @@
   <li><span style="color: #FF00FF;">Tier 2</span> | <span style="color: #00FFFF;">Recurring Service</span> | <span style="color: #FFFF00;">Continuous Threat Exposure Management or Active OSINT Monitoring</span>:</li>
     <ul>
       <li><span style="color: #FF5555;">Payment Process</span>: OSINT Analyst utilizes a Pre-Authorized Monthly Retainer (e-Transfer auto-pay) model. Clients agree to a subscription via Bank to Bank e-Transfer auto-payment (agreements are to be written as an e-Transfer message). Payment is expected on the 1st of every month to secure our team’s availability for continuous OSINT monitoring and intelligence analysis.</li>
-      <li><span style="color: #FF5555;">Services and Prices</span>:</li>
+      <li><span style="color: #FF5555;">Services and Prices</span> | <span style="color: #00FF00;">$500 to $20,000+/Month Depending on Depth</span>: Flat-fee per asset or a "per-query/subject" basis.</li>
         <ul>
       <li><span style="color: #FFFF00;">Monitoring Only Service</span> | <span style="color: #00FF00;">$2,500 - $5,000/Month</span>: Automated alerting on compromised credentials, dark-web mentions, and brand impersonation.</li>
       <li><span style="color: #FFFF00;">Threat Hunting Service</span> | <span style="color: #00FF00;">$7,500 - $12,500/Month</span>: Baseline monitoring, plus 10 hours of reserved investigative analyst hours per month.</li>
