@@ -34,9 +34,9 @@
       <li>Intellectual Property: The report becomes our client's property only upon full payment.</li>
     </ul>
   <br/>
-  <li>Terms for On-Going Clients:</li>
+  <li>Terms for Recurring Clients:</li>
     <ul>
-      <li>SLA (Service Level Agreement): OSINT Analyst guarantee specific response times (e.g., continuous monitoring, emergency threat alerts).</li>
+      <li>SLA (Service Level Agreement): OSINT Analyst guarantees specific response times (e.g., continuous monitoring, emergency threat alerts).</li>
       <li>Subscription Term & Cancellation: Outline the length of the retainer (e.g., 6 or 12 months) and penalties for early termination.</li>
       <li>Data Sovereignty: OSINT Analyst can assure our clients that their ongoing intelligence data and threat indicators are safely stored and compliant with local privacy laws.</li>
     </ul>
