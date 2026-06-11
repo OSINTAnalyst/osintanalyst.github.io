@@ -17,6 +17,27 @@
       <li><span style="color: #FFFF00;">Email Investigation</span> | <span style="color: #00FF00;">$600</span>: Attribution, breaches, and associated accounts.</li>
       <li><span style="color: #FFFF00;">Phone Number Investigation</span> | <span style="color: #00FF00;">$600</span>: Open-source phone intelligence.</li>
       <li><span style="color: #FFFF00;">Business Due Diligence</span> | <span style="color: #00FF00;">$5,000</span>: Corporate background, directors, and risk factors.</li>
+      <li><span style="color: #FFFF00;">Vendor Due Diligence</span> | <span style="color: #00FF00;">$3,500</span>: Supplier verification and risk review.</li>
+      <li><span style="color: #FFFF00;">Executive Due Diligence</span> | <span style="color: #00FF00;">$10,000</span>: High-level background investigation.</li>
+      <li><span style="color: #FFFF00;">Corporate Link Analysis</span> | <span style="color: #00FF00;">$5,000</span>: Relationships between entities and individuals.</li>
+      <li><span style="color: #FFFF00;">Fraud Investigation</span> | <span style="color: #00FF00;">$5,000</span>: Online fraud, scams, and impersonation.</li>
+      <li><span style="color: #FFFF00;">Insurance Fraud OSINT</span> | <span style="color: #00FF00;">$3,000</span>: Activity and claim validation research.</li>
+      <li><span style="color: #FFFF00;">Cryptocurrency Investigation</span> | <span style="color: #00FF00;">$10,000</span>: Wallet tracing and transaction analysis.</li>
+      <li><span style="color: #FFFF00;">Asset Discovery (OSINT)</span> | <span style="color: #00FF00;">$7,500</span>: Publicly identifiable assets and interests.</li>
+      <li><span style="color: #FFFF00;">Litigation Support Research</span> | <span style="color: #00FF00;">$5,000</span>: Adverse information and evidence collection.</li>
+      <li><span style="color: #FFFF00;">Pre-Employment Screening</span> | <span style="color: #00FF00;">$1,000</span>: OSINT background screening.</li>
+      <li><span style="color: #FFFF00;">Influencer Vetting</span> | <span style="color: #00FF00;">$2,000</span>: Reputation and risk assessment.</li>
+      <li><span style="color: #FFFF00;">Domain Investigation</span> | <span style="color: #00FF00;">$1,500</span>: Ownership, infrastructure, and history.</li>
+      <li><span style="color: #FFFF00;">Website Investigation</span> | <span style="color: #00FF00;">$2,000</span>: Attribution and infrastructure mapping.</li>
+      <li><span style="color: #FFFF00;">Breach Exposure Assessment</span> | <span style="color: #00FF00;">$1,500</span>: Data leak and exposure review.</li>
+      <li><span style="color: #FFFF00;">Executive Exposure Report</span> | <span style="color: #00FF00;">$3,000</span>: Publicly exposed personal information.</li>
+      <li><span style="color: #FFFF00;">Threat Actor Profiling</span> | <span style="color: #00FF00;">$10,000</span>: Attribution and activity analysis.</li>
+      <li><span style="color: #FFFF00;">Geolocation Investigation</span> | <span style="color: #00FF00;">$2,500</span>: Location verification from online data.</li>
+      <li><span style="color: #FFFF00;">Image Verification</span> | <span style="color: #00FF00;">$750</span>: Reverse image and authenticity analysis.</li>
+      <li><span style="color: #FFFF00;">Video Verification</span> | <span style="color: #00FF00;">$1,500</span>: Metadata and authenticity review.</li>
+      <li><span style="color: #FFFF00;">Dark Web Exposure Check</span> | <span style="color: #00FF00;">$2,500</span>: Surface and dark web mentions.</li>
+      <li><span style="color: #FFFF00;">Brand Abuse Investigation</span> | <span style="color: #00FF00;">$5,000</span>: Counterfeit or impersonation analysis.</li>
+      <li><span style="color: #FFFF00;">Comprehensive Intelligence Report</span> | <span style="color: #00FF00;">$15,000</span>: Full multi-source intelligence dossier.</li>
     </ul>
   </ul>
   <br/>
