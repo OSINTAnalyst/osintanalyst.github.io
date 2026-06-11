@@ -18,22 +18,6 @@
     </ul>
 </ul>
 
-## OSINT Tools for Sale &#9881;
-<ul>
-  <li><span style="color: #FFFF00;">Portable Automated OSINT Analyst Operating System v1.0</span></li>
-  <ul>
-      <li><span style="color: #FF5555;">Description</span>: A portable OSINT (Open Source Intelligence) Analyst in a bootable USB stick.</li>
-      <li><span style="color: #FF5555;">Price</span> | <span style="color: #00FF00;">$999</span></li>
-         <li>Features:</li>
-    <ul>
-      <li><span style="color: #FF5555;">Boots into a clean OSINT operating system.</span></li>
-      <li><span style="color: #FF5555;">Automatically provides OSINT tools.</span></li>
-      <li><span style="color: #FF5555;">Organizes investigations like an analyst workspace.</span></li>
-      <li><span style="color: #FF5555;">Generates executive-ready reports.</span></li>
-    </ul>
-    </ul>
-</ul>
-
 ## Terms and Conditions &#9878;
 <ul>
   <li>Terms for All Clients:</li>
@@ -55,21 +39,6 @@
       <li>SLA (Service Level Agreement): OSINT Analyst guarantee specific response times (e.g., continuous monitoring, emergency threat alerts).</li>
       <li>Subscription Term & Cancellation: Outline the length of the retainer (e.g., 6 or 12 months) and penalties for early termination.</li>
       <li>Data Sovereignty: OSINT Analyst can assure our clients that their ongoing intelligence data and threat indicators are safely stored and compliant with local privacy laws.</li>
-    </ul>
-    <br/>
-  <li>Ethical Use and Compliance Regarding OSINT Analyst USB Tools:</li>
-    <ul>
-      <li>Intended Purpose: All hardware, software, and educational materials (the "Tools") provided by OSINT Analyst are intended strictly for ethical hacking, professional penetration testing, and educational purposes. These Tools are designed to help security professionals and researchers identify vulnerabilities and improve defensive posture.</li>
-      <li>Compliance with Laws: By purchasing or using these Tools, you agree to comply with all local, provincial, federal, and international laws, including but not limited to the Criminal Code of Canada (Sections 342.1, 342.2, and 430). It is your sole responsibility to ensure your use of these Tools is lawful.</li>
-      <li>Explicit Authorization Required: You must obtain express, written permission from the owner of any computer system, network, or device before performing any testing or accessing any data. Unauthorized access or interference with computer systems is a criminal offense in Canada.</li>
-      <li>Prohibition of Malicious Use | You Agree Not to Use These Tools For:</li>
-    <ul>
-      <li><span style="color: #FF5555;">Unauthorized access to any private or public network.</span></li>
-      <li><span style="color: #FF5555;">Data theft, destruction, or "mischief" as defined under Canadian law.</span></li>
-      <li><span style="color: #FF5555;">Any activity that violates the privacy or security of individuals or organizations.</span></li>
-    </ul>
-      <li>Limitation of Liability: OSINT Analyst provides these Tools "as is" and assumes no responsibility or liability for any misuse, damage, or legal consequences resulting from your actions. You agree to indemnify and hold [Your Company Name] harmless from any claims arising from your use of the Tools.</li>
-      <li>Right to Refuse Sale: OSINT Analyst reserves the right to refuse or cancel any sale if there is reason to believe the Tools will be used for unauthorized or illegal activities.</li>
     </ul>
 </ul>
 
