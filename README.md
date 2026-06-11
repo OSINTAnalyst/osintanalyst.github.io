@@ -8,6 +8,15 @@
       <li><span style="color: #FFFF00;">Basic Person OSINT Investigation</span> | <span style="color: #00FF00;">$500</span>: Public records, social media, aliases, and digital footprint.</li>
       <li><span style="color: #FFFF00;">Comprehensive Background Investigation</span> | <span style="color: #00FF00;">$2,000</span>: Employment, business interests, online activity, and associates.</li>
       <li><span style="color: #FFFF00;">Identity Verification</span> | <span style="color: #00FF00;">$600</span>: Confirm whether a person is genuine.</li>
+      <li><span style="color: #FFFF00;">Catfish Investigation</span> | <span style="color: #00FF00;">$800</span>: Verify online dating or social media identities.</li>
+      <li><span style="color: #FFFF00;">Missing Person Research</span> | <span style="color: #00FF00;">$2,500</span>: Publicly available lead generation.</li>
+      <li><span style="color: #FFFF00;">Digital Footprint Analysis</span> | <span style="color: #00FF00;">$1,000</span>: Full internet presence mapping.</li>
+      <li><span style="color: #FFFF00;">Reputation Assessment</span> | <span style="color: #00FF00;">$1,500</span>: Public reputation and media review.</li>
+      <li><span style="color: #FFFF00;">Social Media Investigation</span> | <span style="color: #00FF00;">$1,200</span>: Historical and current social activity.</li>
+      <li><span style="color: #FFFF00;">Username Investigation</span> | <span style="color: #00FF00;">$500</span>: Cross-platform username discovery.</li>
+      <li><span style="color: #FFFF00;">Email Investigation</span> | <span style="color: #00FF00;">$600</span>: Attribution, breaches, and associated accounts.</li>
+      <li><span style="color: #FFFF00;">Phone Number Investigation</span> | <span style="color: #00FF00;">$600</span>: Open-source phone intelligence.</li>
+      <li><span style="color: #FFFF00;">Business Due Diligence</span> | <span style="color: #00FF00;">$5,000</span>: Corporate background, directors, and risk factors.</li>
     </ul>
   </ul>
   <br/>
